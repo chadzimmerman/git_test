@@ -1,0 +1,5 @@
+I'm adding some text
+so I can test my Git knowledge!
+Huzzah!
+
+One more test for the add . feature
